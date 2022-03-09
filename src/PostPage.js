@@ -29,7 +29,7 @@ const Postpage = ()=>{
         setisLoading(true);
         const fetchData = async()=>{
             try{
-                const url=`http://hn.algolia.com/api/v1/search?query=${query}`;
+                const url=`https://hn.algolia.com/api/v1/search?query=${query}`;
                 const {data} =  await axios.get(url);
                 const {hits} = data;
                 setposts(hits);

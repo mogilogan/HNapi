@@ -1,7 +1,7 @@
 {
   "main.css": "/HNapi/static/css/main.dd71afc7.chunk.css",
-  "main.js": "/HNapi/static/js/main.9e512dcf.chunk.js",
-  "main.js.map": "/HNapi/static/js/main.9e512dcf.chunk.js.map",
+  "main.js": "/HNapi/static/js/main.d34cef1c.chunk.js",
+  "main.js.map": "/HNapi/static/js/main.d34cef1c.chunk.js.map",
   "runtime~main.js": "/HNapi/static/js/runtime~main.7a665dbc.js",
   "runtime~main.js.map": "/HNapi/static/js/runtime~main.7a665dbc.js.map",
   "static/js/2.c47328ca.chunk.js": "/HNapi/static/js/2.c47328ca.chunk.js",
@@ -9,7 +9,7 @@
   "static/js/3.d91048eb.chunk.js": "/HNapi/static/js/3.d91048eb.chunk.js",
   "static/js/3.d91048eb.chunk.js.map": "/HNapi/static/js/3.d91048eb.chunk.js.map",
   "index.html": "/HNapi/index.html",
-  "precache-manifest.fafa41ae24abf618d7837db1dec784b7.js": "/HNapi/precache-manifest.fafa41ae24abf618d7837db1dec784b7.js",
+  "precache-manifest.0673f6a44fe654439fb18e5d845cb939.js": "/HNapi/precache-manifest.0673f6a44fe654439fb18e5d845cb939.js",
   "service-worker.js": "/HNapi/service-worker.js",
   "static/css/main.dd71afc7.chunk.css.map": "/HNapi/static/css/main.dd71afc7.chunk.css.map"
 }

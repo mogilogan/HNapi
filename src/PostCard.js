@@ -13,7 +13,7 @@ const PostCard = ({post}) => {
                 <Typography  style={{color:"#FFC0CB"}} variant="h6" component="div">{post.objectID}</Typography>
             </CardContent>
             <CardActions>
-                <Button></Button>
+                <Button style={{ 'backgroundColor': '#D3D3D3'}} onClick={()=> window.open(`${[post.url]}`, "_blank")}>Learn more</Button>
             </CardActions>
         </React.Fragment>
     )
